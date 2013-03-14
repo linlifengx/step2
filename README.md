@@ -19,7 +19,7 @@ os linux i386
 ##Example
 
 ####fibonacci.sp
-	long main(char[][] args){
+	long main(){
 		printL(fib(10));println(); //55
 		printL(fib(20));println(); //6765
 		printL(fib2(10));println(); //55
