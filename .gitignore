@@ -1,0 +1,9 @@
+#folder
+/temp/
+
+#file
+~*
+*.tmp
+*.out
+sprc
+
